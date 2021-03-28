@@ -1,5 +1,7 @@
-# blog_toreality
+# blog `toreality`
 
-![](./prototype/homepage1.png)
+![homepage](./prototype/homepage1.png)
 
 A blog, currently in the prototype stage, will probably use Rails
+
+![index](./prototype/Index2.png)
