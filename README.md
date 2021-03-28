@@ -6,3 +6,6 @@ A blog, currently in the prototype stage, will probably use Rails
 
 ![index](./prototype/Index2.png)
 =======
+And footer
+
+![](./prototype/Footer.png)
