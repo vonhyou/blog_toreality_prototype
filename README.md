@@ -1,21 +1,7 @@
 # blog `toreality`
 
+progress: *Initializing a Rails project*
 
+* Ruby version: 3.0.0p0 (2020-12-25 revision 95aff21468)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Technology Stack (Intent): Vue.js + Rails
