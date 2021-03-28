@@ -1,11 +1,21 @@
 # blog `toreality`
 
-![homepage](./prototype/homepage1.png)
 
-A blog, currently in the prototype stage, will probably use Rails
 
-![index](./prototype/Index2.png)
-=======
-And footer
+* Ruby version
 
-![](./prototype/Footer.png)
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
